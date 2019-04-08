@@ -5,10 +5,12 @@ RedEye application is the way to never forget about taking a break for you and y
 
 Built with Flutter (which is cool), lightweight and opensource forever.
 
-## Getting Started
-The application reminds you to take a break every 20 minutes (following 20-20-20 rule - every 20 minutes, look at something 20 feet away for 20 seconds) and even more if you work too long time.
+[Self github link](https://github.com/vitya1/RedEye)
 
-Push notification if application is not currently active.
+## Getting Started
+The application reminds you to take a break every 20 minutes (following 20-20-20 rule - every 20 minutes, look at something 20 feet away for 20 seconds) and even suggests to do eye exercise once an hour.
+
+Push notification when the application is running in background. Need to stop - just close.
 
 Tested only for Android devices (you are welcome to test app for other platforms (e.g. different android devices)).
 

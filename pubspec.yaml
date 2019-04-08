@@ -51,8 +51,7 @@ flutter:
 
   assets:
     - assets/data/texts.json
-    - assets/images/logo-l.png
-    - assets/images/main-background.png
+    - assets/images/bg-main.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
