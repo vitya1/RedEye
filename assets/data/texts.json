@@ -1,0 +1,16 @@
+{
+    "notify": "Let your eyes take a break buddy",
+    "20minutes": "Please look at something at least 20 feet (6 meters) away for at least 20 seconds",
+    "hour": "Seems you work the whole hour. Its recommended to do eye exercise after an hour wirking with computer. Use web search to find exercise you'd love",
+    "tips": [
+        "Adjust the screen brightness to the minimal but comfortable level",
+        "To look closely at something, increase font size instead of moving your head toward the screen",
+        "Visit ophthalmologist once a year if you are an office worker",
+        "Don't let hot air get on your eyes when you blow dry hair",
+        "Avoid smoky rooms to keep your eyes healthy",
+        "Quit smoking to keep your eyes healthy",
+        "Wash a face with cold water to improve eyes blood circulation",
+        "Keep the top of your computer screen slightly below eye level",
+        "Get a good night sleep to keep your eyes healthy"
+    ]
+}

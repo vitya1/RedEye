@@ -1,16 +1,21 @@
-# redeye
+# RedEye
 
-A new Flutter project.
+A typical office worker spend 9 hours watching at a screen in average.
+RedEye application is the way to never forget about taking a break for you and your eyes.
+
+Built with Flutter (which is cool), lightweight and opensource forever.
 
 ## Getting Started
+The application reminds you to take a break every 20 minutes (following 20-20-20 rule - every 20 minutes, look at something 20 feet away for 20 seconds) and even more if you work too long time.
 
-This project is a starting point for a Flutter application.
+Push notification if application is not currently active.
 
-A few resources to get you started if this is your first Flutter project:
+Tested only for Android devices (you are welcome to test app for other platforms (e.g. different android devices)).
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## Installation
+Nothing special. Build just like typical flutter project
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Please, use the command bellow to install launcher icons:
+```
+flutter packages pub run flutter_launcher_icons:main
+```

@@ -19,8 +19,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  animated_text_kit:
   flutter_local_notifications:
+  flutter_launcher_icons: "^0.7.0"
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -30,6 +30,13 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+flutter_icons:
+  ios: true
+  android: true
+  image_path_ios: "assets/images/launcher/icon.png"
+  image_path_android: "assets/images/launcher/icon.png"
+  adaptive_icon_background: "assets/images/launcher/background.png"
+  adaptive_icon_foreground: "assets/images/launcher/foreground.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
@@ -43,8 +50,9 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/data/tips.json
+    - assets/data/texts.json
     - assets/images/logo-l.png
+    - assets/images/main-background.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
